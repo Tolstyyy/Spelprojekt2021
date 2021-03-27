@@ -143,6 +143,9 @@ MonoBehaviour:
 =======
   controlID: 126
 >>>>>>> Stashed changes
+<<<<<<< HEAD
+>>>>>>> parent of 1f1fea5 (update)
+=======
 >>>>>>> parent of 1f1fea5 (update)
 --- !u!114 &6
 MonoBehaviour:
@@ -280,6 +283,9 @@ MonoBehaviour:
 =======
   controlID: 125
 >>>>>>> Stashed changes
+<<<<<<< HEAD
+>>>>>>> parent of 1f1fea5 (update)
+=======
 >>>>>>> parent of 1f1fea5 (update)
 --- !u!114 &11
 MonoBehaviour:
@@ -626,10 +632,13 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: b8c0ffffdafaffff
 =======
+=======
+>>>>>>> parent of 1f1fea5 (update)
 <<<<<<< Updated upstream
       m_SelectedIDs: de350000
       m_LastClickedID: 0
@@ -639,6 +648,9 @@ MonoBehaviour:
       m_LastClickedID: 15472
       m_ExpandedIDs: 76fafffff8faffff
 >>>>>>> Stashed changes
+<<<<<<< HEAD
+>>>>>>> parent of 1f1fea5 (update)
+=======
 >>>>>>> parent of 1f1fea5 (update)
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -700,10 +712,13 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 1.5154333, y: -0.6571008, z: -3.6730886}
     speed: 2
     m_Value: {x: 1.5154333, y: -0.6571008, z: -3.6730886}
 =======
+=======
+>>>>>>> parent of 1f1fea5 (update)
 <<<<<<< Updated upstream
     m_Target: {x: 5.1924586, y: 0.107138336, z: -0.56823355}
     speed: 2
@@ -713,6 +728,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.0000011078873, y: -0.00000013943036, z: -9.999999}
 >>>>>>> Stashed changes
+<<<<<<< HEAD
+>>>>>>> parent of 1f1fea5 (update)
+=======
 >>>>>>> parent of 1f1fea5 (update)
   m_RenderMode: 0
   m_CameraMode:
@@ -765,10 +783,13 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 7.1518316
     speed: 2
     m_Value: 7.1518316
 =======
+=======
+>>>>>>> parent of 1f1fea5 (update)
 <<<<<<< Updated upstream
     m_Target: 9.028282
     speed: 2
@@ -778,6 +799,9 @@ MonoBehaviour:
     speed: 2
     m_Value: 12.124357
 >>>>>>> Stashed changes
+<<<<<<< HEAD
+>>>>>>> parent of 1f1fea5 (update)
+=======
 >>>>>>> parent of 1f1fea5 (update)
   m_Ortho:
     m_Target: 1
